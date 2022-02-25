@@ -1,14 +1,9 @@
 <p>
   <h1 align="center"><b> <img src="https://github.com/Wesztman/Wesztman/blob/main/westman-white.png?raw=true" alt="" width="150"></h1>
 </p>
-<!--
-<p>
-  <h1 align="center"><b> Hi there, I'm Carl! <img src="" alt="" width="30"></h1>
-</p>
--->
 
 <p>
-  <h3 align="center">A software engineer with a particular interest in everything surrounding DevOps</p></h3>
+  <h3 align="center">A software/DevOps engineer with a particular interest in everything surrounding DevOps.</p></h3>
 <br />
 
 <br />
@@ -39,6 +34,10 @@ Timezone: Europe/Stockholm (GMT+1)
 <p>
   <h1 align="right"><b>🦆<img src="" alt="" width="100"></h1>
 </p>
+
+<!--
+Software Developer with work experience in C++, Python, Powershell, Bash, Linux, Azure as well as a substantial passion for everything surrounding DevOps.
+-->
 
 <!--
 **Wesztman/Wesztman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
