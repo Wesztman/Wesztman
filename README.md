@@ -3,13 +3,17 @@
 </p>
 
 <p>
-  <h3 align="center">A Software/DevOps engineer with a particular interest in automation and software engineering efficiency.</p></h3>
+  <h3 align="center">A Software/DevOps engineer with a particular interest in automation and software engineering efficiency</p></h3>
+  <h3 align="center">🚀</p></h3>
 <br />
 
-<br />
-<br />
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h2 align="center">About me</h2>
+<h5 align="center">TBD</h5>
+</p>
+
+<p>
+<h2 align="center">Languages and Tools</h2>
 </p>
 <br />
 <p align="center">
@@ -28,7 +32,10 @@
 <br />
 
 <p align="center">
-Timezone: Europe/Stockholm (GMT+1)
+🕕
+</p>
+<p align="center">
+Europe/Stockholm (GMT+1)
 </p>
 
 <p>
