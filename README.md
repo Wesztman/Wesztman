@@ -37,7 +37,7 @@ Timezone: Europe/Stockholm (GMT+1)
 </p>
 
 <p>
-  <h1 align="center"><b>🦆<img src="" alt="" width="100"></h1>
+  <h1 align="right"><b>🦆<img src="" alt="" width="100"></h1>
 </p>
 
 <!--
