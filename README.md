@@ -1,4 +1,13 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b> <img src="https://github.com/Wesztman/Wesztman/blob/main/westman-white.png?raw=true" alt="" width="150"></h1>
+</p>
+<p>
+  <h1 align="center"><b> Hi there, I'm Carl! <img src="" alt="" width="30"></h1>
+</p>
+
+<p>
+  <h3 align="center">A software engineer with a massive interest in everything surrounding DevOps.</p></h3>
+<br />
 
 <!--
 **Wesztman/Wesztman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
