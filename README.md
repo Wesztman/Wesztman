@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h3 align="center">A Software/DevOps engineer with a particular interest in everything surrounding automation and software engineering efficiency.</p></h3>
+  <h3 align="center">A Software/DevOps engineer with a particular interest in automation and software engineering efficiency.</p></h3>
 <br />
 
 <br />
