@@ -43,7 +43,14 @@ Europe/Stockholm (GMT+1)
 </p>
 
 <!--
-Software Developer with work experience in C++, Python, Powershell, Bash, Linux, Azure as well as a substantial passion for everything surrounding DevOps.
+Todo:
+Add favoriter coding Youtubers, and some text about learning through Yt
+Add linkedin imgshield to top
+Add dev.to article 
+Add pip package from pypi
+Highlight repos
+Add stats
+Add other interests
 -->
 
 <!--
