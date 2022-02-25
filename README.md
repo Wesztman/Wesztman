@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h3 align="center">A software/DevOps engineer with a particular interest in everything surrounding DevOps.</p></h3>
+  <h3 align="center">A Software/DevOps engineer with a particular interest in everything surrounding DevOps.</p></h3>
 <br />
 
 <br />
