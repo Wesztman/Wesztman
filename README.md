@@ -27,6 +27,7 @@
 <img alt="Git" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" />
 <img alt="Docker" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg" />
 <img alt="Powershell" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
+<img alt="Terraform" width="40px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" />
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
    </p>
 <br />
