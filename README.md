@@ -8,8 +8,10 @@
 <br />
 
 <p>
-<h2 align="center">About me</h2>
-<h5 align="center">TBD</h5>
+<h2 align="center">Who is this guy?</h2>
+<h5 align="center">❄ My name is Carl Westman and I'm a software/devops engineer from Sweden ❄ <br><br> 
+ I've spent most of my caarer working on software development of autonomous forklifts and other autonomous material handling vehicles. <br><br> 
+  I´ve always had an interest in automating tasks, scalable architecture and engineering efficiency and as of 2022 I'm now working solely with DevOps solutions. <br><br> 🥳 <br> <br> Developing pipelines, automations, working with packaging and release flows as well as deployments and automated testing </h5>
 </p>
 
 <p>
