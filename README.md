@@ -5,7 +5,6 @@
 <p>
   <h3 align="center">A Software/DevOps engineer with a particular interest in automation and software engineering efficiency</p></h3>
   <h3 align="center">🚀</p></h3>
-<br />
 
 <p>
 <h2 align="center">Who is this guy?</h2>
