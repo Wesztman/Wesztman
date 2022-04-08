@@ -19,7 +19,7 @@
 <br />
 <p align="center">
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" /> 
+<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" /> 
 <img alt="Cpp" width="40px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" />
 <img alt="Python" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" />
 <img alt="Bash" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/bash-icon.svg" />
