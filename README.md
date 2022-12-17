@@ -42,29 +42,3 @@ Europe/Stockholm (GMT+1)
 <p>
   <h1 align="right"><b>🦆<img src="" alt="" width="100"></h1>
 </p>
-
-<!--
-Todo:
-Add favoriter coding Youtubers, and some text about learning through Yt
-Add linkedin imgshield to top
-Add dev.to article 
-Add pip package from pypi
-Highlight repos
-Add stats
-Add other interests
--->
-
-<!--
-**Wesztman/Wesztman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
