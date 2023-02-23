@@ -21,14 +21,19 @@
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" /> 
 <img alt="Cpp" width="40px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" />
-<img alt="Python" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" />
-<img alt="Bash" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/bash-icon.svg" />
-<img alt="Azure" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/microsoft-azure.svg" />
-<img alt="Git" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" />
-<img alt="Docker" width="40px" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg" />
+<img alt="Bash" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg" />
+<img alt="Python" width="45px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" />
+<img alt="Azure" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />
+<img alt="Git" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/git-icon.svg" />
+<img alt="Docker" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" />
 <img alt="Powershell" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
-<!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
-   </p>
+<img alt="Powershell" width="35px" src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" />
+ 
+<!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>--> </p>
+
+<h5 align="center">As with many others out there I just love Python. <br> I find it utterly satisfying to write clean Python code and building small CLI tools which makes life easier for my fellow developer colleagues. 
+<br>
+<br>
 <br />
 <br />
 
