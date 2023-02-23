@@ -8,7 +8,7 @@
 
 <p>
 <h2 align="center">Who is this guy?</h2>
-<h5 align="center">❄ A software/DevOps engineer from Sweden ❄ <br><br> 
+<h5 align="center">❄ A DevOpsish engineer from Sweden ❄ <br><br> 
  I've spent most of my career working on software development of autonomous forklifts and other autonomous material handling vehicles. <br><br> 
   
  Realizing how much time was wasted as a developer I grew more and more interested in automating manual tasks and software engineering efficiency overall. This made me change career path and pitch myself on becoming a full fledged DevOps person. <br>In my current role a spend the days developing pipelines, automations, working with packaging and release flows as well as deployments, automated testing and overall tooling for my developer colleagues. </h5>
