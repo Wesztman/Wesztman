@@ -3,15 +3,19 @@
 </p>
 
 <p>
-  <h3 align="center">A Software/DevOps engineer with a particular interest in automation and software engineering efficiency</p></h3>
-  <h3 align="center">🚀</p></h3>
-
+  <h3 align="center">A DevOpsish engineer with a particular love for everything around software engineering efficiency</p></h3>
 <p>
-<h2 align="center">Who is this guy?</h2>
-<h5 align="center">❄ A DevOpsish engineer from Sweden ❄ <br><br> 
- I've spent most of my career working on software development of autonomous forklifts and other autonomous material handling vehicles. <br><br> 
+  <h3 align="center"><b>⚡<img src="" alt="" width="100"></h3>
+</p>
+<p>
+<h2 align="center">Things I hate</h2>
+<h5 align="center">"We've always done it this way"<br><br> 
+<p>Seriously...</p>
+
+<h2 align="center">Enough with the hate, who is this guy?</h2>
+I've spent most of my career working on software development of autonomous forklifts and other autonomous material handling vehicles. <br><br> 
   
- Realizing how much time was wasted as a developer I grew more and more interested in automating manual tasks and software engineering efficiency overall. This made me change career path and pitch myself on becoming a full fledged DevOps person. <br>In my current role a spend the days developing pipelines, automations, working with packaging and release flows as well as deployments, automated testing and overall tooling for my developer colleagues. </h5>
+Realizing how much time was wasted as a developer I grew more and more interested in automating manual tasks and software engineering efficiency overall. This made me change career path and pitch myself on becoming a full fledged DevOps person. <br>In my current role a spend the days developing pipelines, automations, working with packaging and release flows as well as deployments, automated testing and overall tooling for my developer colleagues. </h5>
 </p>
 
 <p>
