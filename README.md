@@ -5,17 +5,14 @@
 <p>
   <h3 align="center">A DevOpsish engineer with a particular love for software engineering efficiency</p></h3>
 <p>
-  <h3 align="center"><b>⚡<img src="" alt="" width="100"></h3>
-</p>
-<p>
-<h2 align="center">Things I hate</h2>
+<h2 align="center">💀 Things I hate 💀</h2>
 <h5 align="center">"We've always done it this way"<br><br> 
 <p>Seriously...</p>
 
 <h2 align="center">Enough with the hate, who is this guy?</h2>
 <h5 align="center">I've spent most of my career working on software development of autonomous forklifts and other autonomous material handling vehicles. <br><br> 
   
-Realizing how much time was wasted as a developer I grew more and more interested in automating manual tasks and software engineering efficiency overall. This made me change career path and pitch myself on becoming a full fledged DevOps person. <br>In my current role a spend the days developing pipelines, automations, working with packaging and release flows as well as deployments, automated testing and overall tooling for my developer colleagues. </h5>
+Realizing how much time was wasted as a developer I grew more and more interested in automating manual tasks and software engineering efficiency overall. <br></br>This made me change career path and pitch myself on becoming a full fledged DevOps person. <br></br>In my current role a spend the days developing pipelines, automations, working with packaging and release flows as well as deployments, automated testing and overall tooling for my developer colleagues. </h5>
 </p>
 
 <p>
@@ -36,16 +33,13 @@ Realizing how much time was wasted as a developer I grew more and more intereste
  
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>--> </p>
 
-<h5 align="center">As with many others out there I just love Python. <br><br> I find it utterly satisfying to write clean Python code and building small CLI tools which makes life easier for my fellow developer colleagues. 
-<br>
-<br>  
-<div class="column">
-    <img alt="Westman" width="70px" src="https://github.com/Wesztman/Wesztman/blob/main/westman-white.png?raw=true" />
-    <p><big> ❤ </big></p>
-    <img alt="Python" width="45px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" />
-</div>
-<br>
-<br>
+<h2 align="center">❤ Things I love ❤</h2>
+<h3 align="center">Python</h3> 
+<h6 align="center"><small> I find it utterly satisfying to write clean Python code and building small CLI tools which makes life easier for my fellow developer colleagues. </small></h6>
+<h3 align="center">Dev Containers</h3> <h6 align="center"><small>God bless them. </small></h6>
+<h3 align="center">A management which understands the importance of supporting roles in software development</h3><h6 align="center"><small>Because you can't build a modern software organization with only product developers and no architects, testers, devops people and system engineers... </small></h6>
+<h3 align="center">Dev Containers</h3> <h6 align="center"><small>Did I mention dev containers? </small></h6>
+<hr>  
 <p align="center">
 🕕
 </p>
