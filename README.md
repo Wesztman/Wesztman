@@ -36,6 +36,9 @@ Realizing how much time was wasted as a developer I grew more and more intereste
 <h2 align="center">❤ Things I love ❤</h2>
 <h3 align="center">Python</h3> 
 <h6 align="center"><small> I find it utterly satisfying to write clean Python code and building small CLI tools which makes life easier for my fellow developer colleagues. </small></h6>
+<h6 align="center">
+  <a href="https://pypi.org/user/wesztman/">PyPi</a>
+</h6>
 <h3 align="center">Dev Containers</h3> <h6 align="center"><small>God bless them. </small></h6>
 <h3 align="center">A management which understands the importance of supporting roles in software development</h3><h6 align="center"><small>Because you can't build a modern software organization with only product developers and no architects, testers, devops people and system engineers... </small></h6>
 <h3 align="center">Dev Containers</h3> <h6 align="center"><small>Did I mention dev containers? </small></h6>
@@ -46,6 +49,8 @@ Realizing how much time was wasted as a developer I grew more and more intereste
 <p align="center">
 Europe/Stockholm (GMT+1)
 </p>
+
+
 
 <p>
   <h1 align="right"><b>🦆<img src="" alt="" width="100"></h1>
