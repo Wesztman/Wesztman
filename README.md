@@ -10,7 +10,8 @@
 <h2 align="center">Who is this guy?</h2>
 <h5 align="center">❄ A software/DevOps engineer from Sweden ❄ <br><br> 
  I've spent most of my career working on software development of autonomous forklifts and other autonomous material handling vehicles. <br><br> 
-  I´ve always had an interest in automating tasks, scalable architecture and engineering efficiency and as of 2022 I'm now working solely with DevOps solutions. <br><br> 🥳 <br> <br> Developing pipelines, automations, working with packaging and release flows as well as deployments and automated testing. </h5>
+  
+ Realizing how much time was wasted as a developer I grew more and more interested in automating manual tasks and software engineering efficiency overall. This made me change career path and pitch myself on becoming a full fledged DevOps person. <br>In my current role a spend the days developing pipelines, automations, working with packaging and release flows as well as deployments, automated testing and overall tooling for my developer colleagues. </h5>
 </p>
 
 <p>
@@ -31,7 +32,7 @@
  
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>--> </p>
 
-<h5 align="center">As with many others out there I just love Python. <br> I find it utterly satisfying to write clean Python code and building small CLI tools which makes life easier for my fellow developer colleagues. 
+<h5 align="center">As with many others out there I just love Python. <br><br> I find it utterly satisfying to write clean Python code and building small CLI tools which makes life easier for my fellow developer colleagues. 
 <br>
 <br>  
 <div class="column">
