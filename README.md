@@ -33,10 +33,14 @@
 
 <h5 align="center">As with many others out there I just love Python. <br> I find it utterly satisfying to write clean Python code and building small CLI tools which makes life easier for my fellow developer colleagues. 
 <br>
+<br>  
+<div class="column">
+    <img alt="Westman" width="70px" src="https://github.com/Wesztman/Wesztman/blob/main/westman-white.png?raw=true" />
+    <p><big> ❤ </big></p>
+    <img alt="Python" width="45px" src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" />
+</div>
 <br>
-<br />
-<br />
-
+<br>
 <p align="center">
 🕕
 </p>
