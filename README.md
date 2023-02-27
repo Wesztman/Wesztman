@@ -9,7 +9,7 @@
 <h5 align="center">"We've always done it this way"<br><br> 
 <p>Seriously...</p>
 
-<h2 align="center">Enough with the hate, who is this guy?</h2>
+<h2 align="center">Enough with the hate</h2>
 <h5 align="center">I've spent most of my career working on software development of autonomous forklifts and other autonomous material handling vehicles. <br><br> 
   
 Realizing how much time was wasted as a developer I grew more and more interested in automating manual tasks and software engineering efficiency overall. <br></br>This made me change career path and pitch myself on becoming a full fledged DevOps person. <br></br>In my current role a spend the days developing pipelines, automations, working with packaging and release flows as well as deployments, automated testing and overall tooling for my developer colleagues. </h5>
