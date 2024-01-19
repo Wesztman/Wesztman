@@ -32,7 +32,7 @@ Realizing how much time was wasted as a developer I grew more and more intereste
 <img alt="Powershell" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/kubernetes.svg" />
 <img alt="Bicep" width="40px" src="https://github.com/Azure/ALZ-Bicep/blob/main/docs/wiki/media/bicep-logo.png" />
 <img alt="Ansible" width="40px" src="https://github.com/ansible/logos/blob/main/ansible-logo-pride/ansible-logo-pride.svg" />
-<img alt="Linux" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026" />
+<img alt="Linux" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026" />
  
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>--> </p>
 
