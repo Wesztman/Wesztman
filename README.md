@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h3 align="center">A DevOpsish engineer with a particular love for software engineering efficiency</p></h3>
+  <h3 align="center">A DevOps engineer with a particular love for software engineering efficiency</p></h3>
 <p>
 <h2 align="center">💀 Things I hate 💀</h2>
 <h5 align="center">"We've always done it this way"<br><br> 
